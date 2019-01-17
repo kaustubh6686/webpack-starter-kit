@@ -1,0 +1,16 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "Custom Webpack Starter Kit",
+  "author": "Kaustubh",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --colors --progress"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
